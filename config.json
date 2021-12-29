@@ -1,0 +1,15 @@
+{
+    "CLIENT_ID": "867092277004468225",
+    "rpc_activity": {
+        "details": "A fun giveaway server!",
+        "state": "Join the server and chat!",
+        "smallImageKey": "verified",
+        "smallImageText": "Verified",
+        "largeImageKey": "daves",
+        "largeImageText": "Dave's World!",
+        "buttons": [
+            { "label": "Join Server", "url": "https://discord.gg/Nju9ejJAbZ" },
+            { "label": "Upvote Us", "url": "https://top.gg/servers/911314366358519849/vote" }
+        ]
+    }   
+}
