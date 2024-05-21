@@ -1,15 +1,15 @@
 {
     "CLIENT_ID": "YOUR_CLIENT_ID",
     "rpc_activity": {
-        "details": "A fun giveaway server!",
-        "state": "Join the server and chat!",
-        "smallImageKey": "verified",
-        "smallImageText": "Verified",
-        "largeImageKey": "daves",
-        "largeImageText": "Dave's World!",
+        "details": "TEXT",
+        "state": "TEXT",
+        "smallImageKey": "SMALL_IMAGE_KEY",
+        "smallImageText": "SMALL_IMAGE_TEXT",
+        "largeImageKey": "LARGE_IMAGE_KEY",
+        "largeImageText": "LARGE_IMAGE_TEXT",
         "buttons": [
-            { "label": "Join Server", "url": "https://discord.gg/Nju9ejJAbZ" },
-            { "label": "Upvote Us", "url": "https://top.gg/servers/911314366358519849/vote" }
+            { "label": "Join Server", "url": "YOUR_LINK" },
+            { "label": "Upvote Us", "url": "YOUR_LINK" }
         ]
     }   
 }
